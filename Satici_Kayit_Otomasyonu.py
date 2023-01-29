@@ -1,4 +1,3 @@
-# 20010011044 / Sevde Nur TOSUNER
 
 import random
 
